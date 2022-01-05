@@ -74,6 +74,7 @@ public class Main {
                 default:
                     System.out.println("No choice!");
             }
+            System.out.println("");
         }
     }
 }
